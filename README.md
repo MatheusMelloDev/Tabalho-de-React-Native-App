@@ -7,18 +7,25 @@ Este projeto é uma aplicação que contém várias telas, replicando algumas fu
 ## Telas
 
 ### Tela HomeScreen
-![Tela Inicial](screenshots/TelaInicial.jpeg)
+<img src="screenshots/TelaInicial.jpeg" alt="Tela Inicial" width="300" height="600">
+
 Esta é a tela de entrada do aplicativo.
 
 ### Tela de Login
-![Tela de Login](screenshots/TelaLogin.jpeg)
 Esta tela permite que os usuários façam login na aplicação. A verificação do e-mail é realizada no código, garantindo que o e-mail inserido contenha um "@".
+
+<img src="screenshots/TelaLogin.jpeg" alt="Tela de Login"  width="300" height="600">
+
+
 ### Tela original Facebook Lite
-![Tela Original](screenshots/TelaOriginalFacebookLite.jpeg)
+<img src="screenshots/TelaOriginalFacebookLite.jpeg" alt="Tela Original"  width="300" height="600"> 
+
 ### Tela de Usuario Tentando replicar a tela Original de Usuario do Facebook Lite
-![Tela de Usuario](screenshots/TelaUsuario.jpeg)
-Após o login, os usuários são direcionados para a tela inicial, que tenta replicar a tela inicial do Facebook Lite.
+<img src="screenshots/TelaUsuario.jpeg" alt="Tela de Usuario"  width="300" height="600">
+
 
 ### Tela de Perfil
-![Tela de Perfil](screenshots/TelaPerfil.jpeg)
 Ao pressionar o ícone de perfil na tela inicial, os usuários são direcionados para uma tela sobre, que contém informações profissionais e links para o GitHub e LinkedIn.
+
+<img src="screenshots/TelaPerfil.jpeg" alt="Tela de Perfil"  width="300" height="600">
+
