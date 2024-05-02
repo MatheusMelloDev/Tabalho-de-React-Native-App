@@ -15,7 +15,7 @@ Esta é a tela de entrada do aplicativo.
 Esta tela permite que os usuários façam login na aplicação. A verificação do e-mail é realizada no código, garantindo que o e-mail inserido contenha um "@".
 ### Tela original Facebook Lite
 ![Tela Original](screenshots/TelaOriginalFacebookLite.jpeg)
-### Tela de Usuario
+### Tela de Usuario Tentando replicar a tela Original de Usuario do Facebook Lite
 ![Tela de Usuario](screenshots/TelaUsuario.jpeg)
 Após o login, os usuários são direcionados para a tela inicial, que tenta replicar a tela inicial do Facebook Lite.
 
